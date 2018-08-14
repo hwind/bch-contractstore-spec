@@ -1,0 +1,1 @@
+# bch-contractstore-spec
